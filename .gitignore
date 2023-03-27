@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 /.yarn
-/vscode
+/.vscode
 
 # testing
 /coverage
